@@ -1,3 +1,5 @@
+# This issue is fixed in the 5.183
+
 ### This is a project to show an issue in Payara Micro 5.182 when getting the OpenAPI document with enabling the OpenTracing/Request trace
 
 ### Reproduce steps
